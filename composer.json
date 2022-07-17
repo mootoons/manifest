@@ -1,0 +1,23 @@
+{
+  "name": "mootoons/wordpress-pkg",
+  "description": "Wordpress packages",
+  "homepage": "https://github.com/mootoons/wordpress-pkg",
+  "autoload": {
+    "psr-4": {
+      "MooToons\\WordpressPkg\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "MooToon",
+      "email": "support@mootoons.com",
+      "homepage": "https://mootoons.com"
+    }
+  ],
+  "type": "library",
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=7.4",
+    "illuminate/collections": "^8.0"
+  }
+}
