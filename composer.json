@@ -1,10 +1,10 @@
 {
-  "name": "mootoons/wordpress-pkg",
-  "description": "Wordpress packages",
-  "homepage": "https://github.com/mootoons/wordpress-pkg",
+  "name": "mootoons/manifest",
+  "description": "Wordpress manifest",
+  "homepage": "https://github.com/mootoons/manifest",
   "autoload": {
     "psr-4": {
-      "MooToons\\WordpressPkg\\": "src/"
+      "MooToons\\Manifest\\": "src/"
     }
   },
   "authors": [
