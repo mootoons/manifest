@@ -1,4 +1,4 @@
-# Wordpress-Pkg
+# Wordpress-Manifest
 
 Wordpress packages
 
