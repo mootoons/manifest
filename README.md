@@ -1,6 +1,10 @@
 # Wordpress-Manifest
 
-Wordpress packages
+Install Package
+
+```sh
+composer require mootoons/manifest
+```
 
 Package: Manifest ใช้สำหรับ react หรือ laravel mix
 
